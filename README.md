@@ -1,0 +1,1 @@
+The Smart Budget Database System tracks expenses, budgets, purchases, returns, and refunds with alerts and reporting. Designed using real artifacts, use cases, 15 business rules, 10+ entity ERDs, specialization/generalization, and BCNF normalization. Implemented SQL procedures and business queries using Azure SQL
